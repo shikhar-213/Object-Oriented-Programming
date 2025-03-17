@@ -1,4 +1,4 @@
-from fractions import Fraction
+from Fractions.fractions import Fraction
 x = Fraction(7,2)
 y = Fraction(3,8)
 print(x)
