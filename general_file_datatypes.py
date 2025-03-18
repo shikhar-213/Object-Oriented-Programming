@@ -1,5 +1,5 @@
-from Fractions.fractions import Fraction
-from Coordinates.coordinates import Coordinate2D
+from datatypes.fractions import Fraction
+from datatypes.coordinates import Coordinate2D
 # # Fractions
 # x = Fraction(7,2)
 # y = Fraction(3,8)
